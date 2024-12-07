@@ -1,1 +1,2 @@
-# OBLIG-5-FINAL
+# is114-tema05
+Kode for OBLIG 5
